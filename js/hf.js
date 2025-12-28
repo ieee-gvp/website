@@ -10,7 +10,8 @@ class MyHeader extends HTMLElement {
 					TEAM
 					</a>
 					<div class="dropdown-menu justify-content-start" aria-labelledby="navbarDropdownChaptersLink">
-						<a class="dropdown-item" href="team.html">Exe-com 2023-24</a>
+						<a class="dropdown-item" href="team.html">Exe-com 2025-26</a>
+						<a class="dropdown-item" href="execom2023-24.html">Exe-com 2023-24</a>
 						<a class="dropdown-item" href="execom2022-23.html">Exe-com 2022-23</a>
 					</div>
 	      		</li>
