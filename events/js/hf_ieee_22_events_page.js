@@ -23,6 +23,7 @@ class MyHeader extends HTMLElement {
 	          		EVENTS
 	        		</a>
 	        		<div class="dropdown-menu" aria-labelledby="navbarDropdownMoreLink">
+					    <a class="dropdown-item" href="../../events_page_2026.html">2026</a>
 						<a class="dropdown-item" href="../../events_page_2025.html">2025</a>
 						<a class="dropdown-item" href="../../events_page_2024.html">2024</a>
 						<a class="dropdown-item" href="../../events_page_2023.html">2023</a>
